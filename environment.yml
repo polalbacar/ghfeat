@@ -65,7 +65,7 @@ dependencies:
   - pip:
     - backcall==0.2.0
     - chardet==4.0.0
-    - decorator==5.0.0
+    - decorator
     - idna==2.10
     - ipdb==0.13.7
     - ipython==7.16.1
